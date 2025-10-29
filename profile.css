@@ -1,0 +1,14 @@
+
+  
+.back{
+  background-image: url("C:/Users/HP/Downloads/profile/computer.jpg");
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size: cover;
+}
+
+.image{
+  max-width: 100%;
+  max-height: 100%;
+}
+
